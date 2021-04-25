@@ -6,3 +6,6 @@ Using BERT to rangkum cerpen nusantara
 ## Running
 
 `streamlit run summary.py`
+
+## Library
+We use [cahya/bert2bert-indonesian-summarization](https://huggingface.co/cahya/bert2bert-indonesian-summarization) from Huggingface. 
